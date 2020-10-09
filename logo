@@ -1,3 +1,14 @@
+ <!DOCTYPE html>
+<html>
+<title>HTML Tutorial</title>
+<body>
+
+<img src="K%C3%A9perny%C5%91k%C3%A9p%202020-10-05%20195544.png" alt="Trulli" width="385" height="350">
+   <button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+
+
 import turtle
 
 
@@ -12,6 +23,3 @@ For i in range(3):
     alex.forward(150)
     alex.left(90)
     alex.forward(75)
-    
-   <img src="K%C3%A9perny%C5%91k%C3%A9p%202020-10-05%20195544.png" alt="Trulli" width="385" height="350">
-
